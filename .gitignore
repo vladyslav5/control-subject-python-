@@ -1,0 +1,9 @@
+*.log
+
+node_modules/
+
+build/
+!build/important_config.json
+
+.env
+.env.local
